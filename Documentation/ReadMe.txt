@@ -1,0 +1,1 @@
+Plant dataset : https://www.kaggle.com/datasets/emmarex/plantdisease
